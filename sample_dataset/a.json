@@ -1,0 +1,19 @@
+{
+    "name": "Sample Dataset",
+    "version": "1.0",
+    "description": "This is a sample dataset for demonstration purposes.",
+    "data": [
+        {
+            "id": 1,
+            "value": "First entry"
+        },
+        {
+            "id": 2,
+            "value": "Second entry"
+        },
+        {
+            "id": 3,
+            "value": "Third entry"
+        }
+    ]
+}
